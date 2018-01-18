@@ -1,6 +1,8 @@
-<img src="https://github.com/HoseinPorazar/SqlServerBackupMaster/blob/master/scree.PNG" />
+
 
 Automatic Backup Multiple SQL Servers Databases
+-With progressbar to show process 
+-Used Thread for backup process to prevent form freez
 
 
 We have more than 1 SQL Server instances in our company and we take backups of  databases every day
