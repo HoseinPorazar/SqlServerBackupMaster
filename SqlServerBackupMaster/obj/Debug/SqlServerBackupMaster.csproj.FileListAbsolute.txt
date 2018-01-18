@@ -1,0 +1,10 @@
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\bin\Debug\SqlServerBackupMaster.exe.config
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\bin\Debug\SqlServerBackupMaster.exe
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\bin\Debug\SqlServerBackupMaster.pdb
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\obj\Debug\SqlServerBackupMaster.csprojResolveAssemblyReference.cache
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\obj\Debug\SqlServerBackupMaster.Form1.resources
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\obj\Debug\SqlServerBackupMaster.Properties.Resources.resources
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\obj\Debug\SqlServerBackupMaster.csproj.GenerateResource.Cache
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\obj\Debug\SqlServerBackupMaster.exe
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\obj\Debug\SqlServerBackupMaster.pdb
+d:\hosein\documents\visual studio 2015\Projects\SqlServerBackupMaster\SqlServerBackupMaster\obj\Debug\SqlServerBackupMaster.FrmAddLogins.resources
