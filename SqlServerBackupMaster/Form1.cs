@@ -16,6 +16,7 @@ using System.Threading;
 
 namespace SqlServerBackupMaster
 {
+    ///
     public partial class Form1 : Form
     {
         string FilePath = Application.StartupPath + "\\logins.xml";
